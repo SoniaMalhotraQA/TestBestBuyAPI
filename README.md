@@ -6,7 +6,10 @@ Rest Assured based TestNG suite for testing BestBuy API
 Make sure you have Best Buy API(https://github.com/BestBuy/api-playground) running on your local. 
 If the API is hosted on some external server then follow the configuration step to add the server details where the API is deployed.
 
-Install Maven
+Install Java 8
+https://docs.oracle.com/javase/8/docs/technotes/guides/install/install_overview.html
+
+Install Maven (Apache Maven 3.6.3 or above)
 https://maven.apache.org/install.html
 
 ## Configuration Options
