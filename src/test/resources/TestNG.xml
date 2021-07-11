@@ -1,0 +1,8 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+<suite name="BestBuyAPITestSuite" parallel="false">
+  <test name="ServiceAPITest">
+    <classes>
+      <class name="org.sonia.TestBestBuyServiceAPI"/>
+    </classes>
+  </test>
+</suite>
